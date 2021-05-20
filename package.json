@@ -1,0 +1,12 @@
+{
+  "name": "e-coomerce-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "author": "Nikhil Gupta",
+  "license": "ISC",
+  "description": ""
+}

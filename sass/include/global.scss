@@ -1,0 +1,32 @@
+/* global classes */
+
+button, button:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+img{
+    height: 1000px;
+    width: 800px;
+}
+
+#on-sale{
+    .img-fluid{
+        width:300px;
+        height:200px;
+    }
+} 
+
+ #on-trends{
+     .img-fluid{
+         width:300px;
+         height:200px;
+     }
+ } 
+ 
+ #blogs{
+     img{
+         width:400px;
+         height:250px;
+     }
+ }
